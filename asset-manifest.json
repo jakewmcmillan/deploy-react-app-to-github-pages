@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deploy-react-app-to-github-pages/static/css/main.9bd7a35e.css",
+    "main.js": "/deploy-react-app-to-github-pages/static/js/main.e51e73d1.js",
+    "index.html": "/deploy-react-app-to-github-pages/index.html",
+    "main.9bd7a35e.css.map": "/deploy-react-app-to-github-pages/static/css/main.9bd7a35e.css.map",
+    "main.e51e73d1.js.map": "/deploy-react-app-to-github-pages/static/js/main.e51e73d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bd7a35e.css",
+    "static/js/main.e51e73d1.js"
+  ]
+}
